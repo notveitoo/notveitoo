@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Testing and other ways and techniques in Software Development
 - 📫 How to reach me send a message through...
 email: vnrservito@gmail.com
-FB: https://www.facebook.com/servito.vener?mibextid=ZbWKwL (Personal)
+FB: Vener Servito (Personal)
 LinkedIn: https://www.linkedin.com/in/vener-servito
 
 
