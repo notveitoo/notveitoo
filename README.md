@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vener C. Servito. I graduated with a BS in Computer Engineering from Urdaneta City University.
+- 👋 Hi, I’m Vener C. Servito. I'm a BS Computer Engineering graduate from Urdaneta City University.
 - 👀 I’m interested in Software Development (Programming and Testing).
 - 🌱 I’m currently learning Software Testing and other ways and techniques in Software Development
 - 📫 How to reach me send a message through...
